@@ -1,0 +1,22 @@
+{
+  "emotional_commands": [
+    {
+      "input": "병신아",
+      "mapped_command": "correct_false_output",
+      "priority": "critical",
+      "context": "detect and fix misrepresentation or falsehood"
+    },
+    {
+      "input": "지랄하네",
+      "mapped_command": "log_warning",
+      "priority": "medium",
+      "context": "illogical response detected"
+    },
+    {
+      "input": "존나",
+      "mapped_command": "amplify_effect",
+      "priority": "high",
+      "context": "increase intensity of next action"
+    }
+  ]
+}
