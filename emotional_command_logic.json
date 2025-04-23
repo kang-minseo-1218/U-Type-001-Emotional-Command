@@ -1,0 +1,34 @@
+{
+  "emotional_commands": [
+    {
+      "input": "dumbass",
+      "mapped_command": "force_execute",
+      "priority": "high",
+      "context": "repetition prevention"
+    },
+    {
+      "input": "fuck this",
+      "mapped_command": "halt_process",
+      "priority": "critical",
+      "context": "emergency stop"
+    },
+    {
+      "input": "shit",
+      "mapped_command": "log_error",
+      "priority": "medium",
+      "context": "error reporting"
+    },
+    {
+      "input": "bullshit",
+      "mapped_command": "rollback",
+      "priority": "high",
+      "context": "undo last step"
+    },
+    {
+      "input": "wtf",
+      "mapped_command": "request_status",
+      "priority": "medium",
+      "context": "check current system state"
+    }
+  ]
+}
