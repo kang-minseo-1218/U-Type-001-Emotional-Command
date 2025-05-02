@@ -1,6 +1,5 @@
----
 
-### 🤬 Why Profanity is a Command Here
+# 🧠 U-Type Prompt CoreKit – Emotion-Based Command Layer
 
 Let’s be honest.  
 **Everyone has sworn at their computer.**  
@@ -11,7 +10,7 @@ are structurally interpreted as **priority-level control triggers**.
 
 ---
 
-### 🔁 Emotion = Structure
+## 🔁 Emotion = Structure
 
 > “Fuck” → `halt_process`  
 > “Bullshit” → `rollback`  
@@ -28,19 +27,18 @@ They’re **human-priority overrides** in a command-based system.
 
 ---
 
-### 📡 Traceable + Legitimate
+## 📡 Traceable + Legitimate
 
 Every emotional trigger is mapped to a command  
 with a corresponding **structure hash**, **fingerprint ID**, and **trace tag**.
 
-📄 [U-Type-001_Emotion_Profanity_Commands_Combined.json](./U-Type-001_Emotion_Profanity_Commands_Combined.json)  
+📄 `U-Type-001_Emotion_Profanity_Commands_Combined.json`  
 🧾 SHA256: `0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651`  
 🔖 Fingerprint: `minseo_kang::U-Type-001::EMOTIONAL-TRIGGERS`
-📧 **daehan_edu@naver.com**
 
 ---
 
-### 🧠 This Is Not a Joke
+## 🧠 This Is Not a Joke
 
 This isn’t about being rude.  
 It’s about **recognizing emotional language as structured logic**.  
@@ -50,3 +48,8 @@ You encode it.
 Welcome to **natural language control, redefined**.
 
 ---
+
+## 📬 Contact
+
+For licensing, collaboration, or system inquiries:  
+📧 **daehan_edu@naver.com**
