@@ -1,4 +1,6 @@
-# U-Type-001: Emotion-Driven Profanity Command Processing System
+
+# U-Type-001: Emotion-Driven Profanity Command Processing System  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
 
 ## Overview
 U-Type-001 is a unique natural language processing architecture that integrates **human emotions** as an essential part of command interpretation, a feature typically excluded from conventional AI systems.  
@@ -25,3 +27,7 @@ This system redefines natural language command interfaces by incorporating **emo
 
 ## License
 This project is licensed for **non-commercial use only**. Commercial use or derivative development requires **prior written consent**.
+
+
+For commercial inquiries or licensing permissions, contact:  
+📬 **daehan_edu@naver.com**
