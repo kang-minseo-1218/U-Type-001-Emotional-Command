@@ -1,34 +1,34 @@
 {
   "emotional_commands": [
     {
-      "input": "dumbass",
-      "mapped_command": "force_execute",
-      "priority": "high",
-      "context": "repetition prevention"
-    },
-    {
-      "input": "씨발",
+      "input": "fuck",
       "mapped_command": "halt_process",
       "priority": "critical",
       "context": "emergency stop"
     },
     {
-      "input": "미친",
+      "input": "shit",
       "mapped_command": "log_error",
+      "priority": "high",
+      "context": "error reporting or system frustration"
+    },
+    {
+      "input": "wtf",
+      "mapped_command": "request_status",
       "priority": "medium",
-      "context": "error reporting"
+      "context": "check current system state or unexpected response"
     },
     {
       "input": "bullshit",
       "mapped_command": "rollback",
       "priority": "high",
-      "context": "undo last step"
+      "context": "undo last action or reject false logic"
     },
     {
-      "input": "등신",
-      "mapped_command": "request_status",
+      "input": "dumbass",
+      "mapped_command": "force_execute",
       "priority": "medium",
-      "context": "check current system state"
+      "context": "trigger direct execution despite error"
     }
   ]
 }
