@@ -25,7 +25,7 @@
       "context": "undo last step"
     },
     {
-      "input": "wtf",
+      "input": "등신",
       "mapped_command": "request_status",
       "priority": "medium",
       "context": "check current system state"
