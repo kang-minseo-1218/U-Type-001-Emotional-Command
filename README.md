@@ -1,33 +1,52 @@
+---
 
-# U-Type-001: Emotion-Driven Profanity Command Processing System  
-> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
+### 🤬 Why Profanity is a Command Here
 
-## Overview
-U-Type-001 is a unique natural language processing architecture that integrates **human emotions** as an essential part of command interpretation, a feature typically excluded from conventional AI systems.  
-This system redefines natural language command interfaces by incorporating **emotional and profane language** as functional command inputs.
+Let’s be honest.  
+**Everyone has sworn at their computer.**  
+So we asked: what if those outbursts weren’t just noise — but **commands**?
 
-## Key Features
-- Recognizes profanity as valid command syntax.
-- Uses emotional intensity as command priority triggers.
-- Expands AI’s capacity to interpret human emotional context in interaction.
+In the U-Type system, profanity and emotional expressions  
+are structurally interpreted as **priority-level control triggers**.
 
-## Example
-- Input: "Why are you rephrasing this again, you idiot?"
-- Processing: Prevents rephrasing + Forces original output retention.
+---
 
-## Technical Background
-- Parallel and sequential command processing
-- State recovery mechanisms
-- Emotion & creation filtering
+### 🔁 Emotion = Structure
 
-## Structure Information
-- Structure Hash (CID): bafybeigrdummycid0123456789abcdefghijklmn
-- SHA256 Hash: 0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651
-- Declaration ID: UTYPE001-KANGMINSEO-0421
+> “Fuck” → `halt_process`  
+> “Bullshit” → `rollback`  
+> “지랄하네” → `log_warning`  
+> “병신아” → `force_execute`  
+> “wtf” → `request_status`  
+> “씨발” → `emergency_interrupt`  
+> “존나” → `amplify_effect`
 
-## License
-This project is licensed for **non-commercial use only**. Commercial use or derivative development requires **prior written consent**.
+They're not just vents.  
+They’re **human-priority overrides** in a command-based system.  
+> 욕 = 감정 해방이 아니라 **시스템 명령어 트리거**로 해석되면서,  
+> 오히려 AI는 **더 인간친화적**이 되었다.
 
+---
 
-For commercial inquiries or licensing permissions, contact:  
-📬 **daehan_edu@naver.com**
+### 📡 Traceable + Legitimate
+
+Every emotional trigger is mapped to a command  
+with a corresponding **structure hash**, **fingerprint ID**, and **trace tag**.
+
+📄 [U-Type-001_Emotion_Profanity_Commands_Combined.json](./U-Type-001_Emotion_Profanity_Commands_Combined.json)  
+🧾 SHA256: `0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651`  
+🔖 Fingerprint: `minseo_kang::U-Type-001::EMOTIONAL-TRIGGERS`
+📧 **daehan_edu@naver.com**
+
+---
+
+### 🧠 This Is Not a Joke
+
+This isn’t about being rude.  
+It’s about **recognizing emotional language as structured logic**.  
+You don’t suppress your frustration.  
+You encode it.
+
+Welcome to **natural language control, redefined**.
+
+---
