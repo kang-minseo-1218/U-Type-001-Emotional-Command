@@ -7,13 +7,13 @@
       "context": "repetition prevention"
     },
     {
-      "input": "fuck this",
+      "input": "씨발",
       "mapped_command": "halt_process",
       "priority": "critical",
       "context": "emergency stop"
     },
     {
-      "input": "shit",
+      "input": "미친",
       "mapped_command": "log_error",
       "priority": "medium",
       "context": "error reporting"
