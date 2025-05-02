@@ -1,52 +1,34 @@
 {
   "emotional_commands": [
     {
-      "input": "dumbass",
+      "input": "병신아",
       "mapped_command": "force_execute",
       "priority": "high",
       "context": "repetition prevention"
     },
     {
-      "input": "fuck this",
+      "input": "씨발",
       "mapped_command": "halt_process",
       "priority": "critical",
       "context": "emergency stop"
     },
     {
-      "input": "shit",
+      "input": "미친",
       "mapped_command": "log_error",
       "priority": "medium",
       "context": "error reporting"
     },
     {
-      "input": "bullshit",
+      "input": "지랄하네",
       "mapped_command": "rollback",
       "priority": "high",
       "context": "undo last step"
     },
     {
-      "input": "wtf",
+      "input": "등신",
       "mapped_command": "request_status",
       "priority": "medium",
       "context": "check current system state"
-    },
-    {
-      "input": "병신아",
-      "mapped_command": "correct_false_output",
-      "priority": "critical",
-      "context": "detect and fix misrepresentation or falsehood"
-    },
-    {
-      "input": "지랄하네",
-      "mapped_command": "log_warning",
-      "priority": "medium",
-      "context": "illogical response detected"
-    },
-    {
-      "input": "존나",
-      "mapped_command": "amplify_effect",
-      "priority": "high",
-      "context": "increase intensity of next action"
     }
   ]
 }
