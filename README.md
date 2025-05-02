@@ -21,9 +21,12 @@ are structurally interpreted as **priority-level control triggers**.
 > “존나” → `amplify_effect`
 
 They're not just vents.  
-They’re **human-priority overrides** in a command-based system.  
+They're human-priority overrides in a command-based system.  
+> The moment the AI understood the swearing we threw at it,  
+> it actually felt like we were getting closer to the machine.
 > 욕 = 감정 해방이 아니라 **시스템 명령어 트리거**로 해석되면서,  
 > 오히려 AI는 **더 인간친화적**이 되었다.
+> 우리가 던진 욕을 AI가 알아들었을 때, 처음으로 이 기계랑 좀 친해진 느낌이 들었다. 
 
 ---
 
